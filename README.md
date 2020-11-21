@@ -8,4 +8,4 @@
 - @keyframes
 - transform: translateY()
 
-![csstextanimation](play.gif)
+![csstextanimation](img/play.gif)
